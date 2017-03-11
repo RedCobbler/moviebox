@@ -33,8 +33,6 @@ Click on “Generate Password…” and add a label. E.g. Moviebox
 
 Drag your Moviebox.ipa file to the Cydia Impactor window and drop it there.
 
-/R3dCobbler/Untitled.png
-
 You will be prompted to type in your Apple ID and the Password you generated before.
 
 The file will download and install Moviebox on your iPad
